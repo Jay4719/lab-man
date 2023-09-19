@@ -1,9 +1,2 @@
 # Library Management System
-
-[Frappe Dev Hiring Test](https://frappe.io/dev-hiring-test)
-
-Recently, I came across a Dev Hiring Test on the Frappe Career Page to build a library management system using any web framework in Python. I was curious to see how tech companies have changed their hiring tactics, and I observed that many college students prioritize academic grades over practical skills, leaving essential abilities behind. Therefore, I decided to take on this challenge and build the web application using my favorite web framework, Django.
-
-
-Gratitude to [Frappe](https://frappe.io/) for providing the inspiring Dev Hiring Test ❤️
-
+The Library Management System is an innovative solution to efficiently manage and track the records and data of all the transaction. The system helps the librarian to reliably handle the library with the help of web based- Library Management System by eliminate the convectional management system with the help of Backend Data storage facility to store the daily transaction of books and respective.
